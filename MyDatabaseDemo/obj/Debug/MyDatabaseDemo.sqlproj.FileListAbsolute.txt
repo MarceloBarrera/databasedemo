@@ -1,0 +1,9 @@
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\bin\Debug\MyDatabaseDemo.dacpac
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\bin\Debug\MyDatabaseDemo.dll
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\bin\Debug\MyDatabaseDemo.pdb
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\obj\Debug\MyDatabaseDemo.dll
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\obj\Debug\MyDatabaseDemo.pdb
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\obj\Debug\Model.xml
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\obj\Debug\refactor.xml
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\obj\Debug\postdeploy.sql
+C:\Work\Repos\MyDatabaseDemo\MyDatabaseDemo\obj\Debug\predeploy.sql
